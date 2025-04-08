@@ -50,8 +50,8 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: loan-management
+            contract-name: lender-verification
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/loan-management.clar
+            path: contracts/lender-verification.clar
             clarity-version: 2
       epoch: "2.5"

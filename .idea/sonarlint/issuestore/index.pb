@@ -11,3 +11,5 @@ E
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 R
 "contracts/lender-verification.clar,a/3/a3e6679b26579ee0f809996b65c099376363647d
+Q
+!tests/lender-verification.test.ts,4/a/4a49eef8ad0003204a00438985b77ce632d3a284
